@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FaceDetector/static/css/main.73babdf0.chunk.css",
+    "main.css": "/FaceDetector/static/css/main.5369b266.chunk.css",
     "main.js": "/FaceDetector/static/js/main.b155aa0e.chunk.js",
     "main.js.map": "/FaceDetector/static/js/main.b155aa0e.chunk.js.map",
     "runtime-main.js": "/FaceDetector/static/js/runtime-main.f258109d.js",
@@ -10,14 +10,14 @@
     "static/js/3.487dd83e.chunk.js": "/FaceDetector/static/js/3.487dd83e.chunk.js",
     "static/js/3.487dd83e.chunk.js.map": "/FaceDetector/static/js/3.487dd83e.chunk.js.map",
     "index.html": "/FaceDetector/index.html",
-    "static/css/main.73babdf0.chunk.css.map": "/FaceDetector/static/css/main.73babdf0.chunk.css.map",
+    "static/css/main.5369b266.chunk.css.map": "/FaceDetector/static/css/main.5369b266.chunk.css.map",
     "static/js/2.baef9cdd.chunk.js.LICENSE.txt": "/FaceDetector/static/js/2.baef9cdd.chunk.js.LICENSE.txt",
     "static/media/camera.8863c1d2.png": "/FaceDetector/static/media/camera.8863c1d2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f258109d.js",
     "static/js/2.baef9cdd.chunk.js",
-    "static/css/main.73babdf0.chunk.css",
+    "static/css/main.5369b266.chunk.css",
     "static/js/main.b155aa0e.chunk.js"
   ]
 }
