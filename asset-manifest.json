@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheodorCristian/FaceDetector.gi/static/css/main.73babdf0.chunk.css",
+    "main.js": "/TheodorCristian/FaceDetector.gi/static/js/main.66bed350.chunk.js",
+    "main.js.map": "/TheodorCristian/FaceDetector.gi/static/js/main.66bed350.chunk.js.map",
+    "runtime-main.js": "/TheodorCristian/FaceDetector.gi/static/js/runtime-main.ac536b0a.js",
+    "runtime-main.js.map": "/TheodorCristian/FaceDetector.gi/static/js/runtime-main.ac536b0a.js.map",
+    "static/js/2.1c3466e5.chunk.js": "/TheodorCristian/FaceDetector.gi/static/js/2.1c3466e5.chunk.js",
+    "static/js/2.1c3466e5.chunk.js.map": "/TheodorCristian/FaceDetector.gi/static/js/2.1c3466e5.chunk.js.map",
+    "static/js/3.487dd83e.chunk.js": "/TheodorCristian/FaceDetector.gi/static/js/3.487dd83e.chunk.js",
+    "static/js/3.487dd83e.chunk.js.map": "/TheodorCristian/FaceDetector.gi/static/js/3.487dd83e.chunk.js.map",
+    "index.html": "/TheodorCristian/FaceDetector.gi/index.html",
+    "static/css/main.73babdf0.chunk.css.map": "/TheodorCristian/FaceDetector.gi/static/css/main.73babdf0.chunk.css.map",
+    "static/js/2.1c3466e5.chunk.js.LICENSE.txt": "/TheodorCristian/FaceDetector.gi/static/js/2.1c3466e5.chunk.js.LICENSE.txt",
+    "static/media/camera.8863c1d2.png": "/TheodorCristian/FaceDetector.gi/static/media/camera.8863c1d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac536b0a.js",
+    "static/js/2.1c3466e5.chunk.js",
+    "static/css/main.73babdf0.chunk.css",
+    "static/js/main.66bed350.chunk.js"
+  ]
+}
