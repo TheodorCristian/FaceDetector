@@ -6,7 +6,7 @@ const InputForm = ({onInputChange, onSubmit}) => {
       <div className="container">
          <p className="title">Test the Face Detector App</p>
          <div className="input-container">
-            <input type="text" name="url" placeholder="Enter a URL" onChange={onInputChange}/>
+            <input type="text" name="url" placeholder="Enter an image URL" onChange={onInputChange}/>
             <button onClick={onSubmit}>Detect Face</button>
          </div>
       </div>
